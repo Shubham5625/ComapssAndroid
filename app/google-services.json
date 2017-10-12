@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "49325152777",
+    "firebase_url": "https://missioncontrolapp.firebaseio.com",
+    "project_id": "missioncontrolapp",
+    "storage_bucket": "missioncontrolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49325152777:android:0f9355f44f0326ee",
+        "android_client_info": {
+          "package_name": "com.example.shubham.missioncontrolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49325152777-5craehhcuci9djui38nkdsd5ii940sgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubham.missioncontrolapp",
+            "certificate_hash": "6AC0A68CFDC10DF61DEDDC84E1B320F0159E0B38"
+          }
+        },
+        {
+          "client_id": "49325152777-7fp0dib2r9asgei6bt6pp1eiv9bchoeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQy8LfKoBSVTy4lJFcedkL3VwhY7MiRK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49325152777-7fp0dib2r9asgei6bt6pp1eiv9bchoeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
